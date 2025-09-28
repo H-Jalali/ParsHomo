@@ -66,8 +66,6 @@ python Homograph_mT5_Inference.py
 
 We provide a small benchmark dataset (Benchmark_Dataset.jsonl) with annotated sentences for evaluation and reproducibility.
 
-## 📊 Benchmark Dataset Example
-
 Each record in `Benchmark_Dataset.jsonl` looks like this:
 
 ```json
