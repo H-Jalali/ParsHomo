@@ -89,5 +89,10 @@ If you use this repository in your research, please cite our paper:
   publisher = {IEEE},
 }
 ```
+## 🙏 Acknowledgment
+
+This repository makes use of the [Homo-GE2PE-Persian](https://github.com/MahtaFetrat/Homo-GE2PE-Persian) repository for baseline GE2PE benchmarking.
+We thank the authors for making their code publicly available.
+
 ## 📬 Contact
 For any inquiries or contributions, please contact hasanjalali@ut.ac.ir, mohaddesi.t@gmail.com.
